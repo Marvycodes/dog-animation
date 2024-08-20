@@ -1,0 +1,690 @@
+body{
+    background-color: white;
+}
+
+.dog-1 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 1.23em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-2 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 2.5em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.1s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-3 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 3.75em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.2s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-4 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 5em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.3s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-5 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 6.25em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.4s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-6 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 7.5em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.5s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-7 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 8.75em;
+    opacity: 0;
+  
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.6s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-8 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 10em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.7s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-9 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 11.25em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 0.8s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-10 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 12.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 0.9s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-11 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 13.75em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-12 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 15em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.1s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-13 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 16.25em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.2s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-14 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 17.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.3s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-15 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 18.75em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.4s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-16 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 20em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.5s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-17 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 21.25em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.6s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-18 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 22.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.7s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-19 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 23.75em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.8s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-20 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 25em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.9s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-21 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 26.25em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-22 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 27.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.1s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-23 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 28.75em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.2s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-24 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 30em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.3s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-25 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 31.25em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.4s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-26 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 32.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.5s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-27 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 33.75em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.6s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-28 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 35em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.7s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-29 {
+    width: 200px;
+    position: absolute;
+    top: 0;
+    left: 36.25em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.8s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-30 {
+    width: 150px;
+    position: absolute;
+    top: -5px;
+    left: 39em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-outs 2s 2.9s forwards;
+    animation-fill-mode: forwards;
+  }
+  
+  .dog-e {
+    position: relative;
+    top: 20vw;
+    left: 20vw;
+  background-color: grey;
+    z-index: 100;
+  }
+  @keyframes fade-in-out {
+    0% {
+      opacity: 0;
+    }
+    5% {
+      opacity: 1;
+    }
+    10% {
+      opacity: 0;
+    }
+    90% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  @keyframes fade-in-outs {
+    0% {
+      opacity: 0;
+    }
+    5% {
+      opacity: 1;
+    }
+    10% {
+      opacity: 1;
+    }
+    90% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  .dog-1s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 0.5em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-2s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 1em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.1s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-3s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 1.5em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.2s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-4s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 2em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.3s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-5s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 2.5em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.4s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-6s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 3em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.5s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-7s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 3.5em;
+    opacity: 0;
+  
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.6s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-8s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 4em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-out 2s 0.7s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-9s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 4.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 0.8s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-10s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 0.9s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-11s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 5.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-12s {
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 6em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.1s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-13s {
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 6.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.2s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-14s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 7em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.3s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-15s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 7.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.4s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-16s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 8em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.5s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-17s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 8.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.6s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-18s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 9em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.7s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-19s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 9.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.8s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-20s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 10em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 1.9s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-21s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 10.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-22s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 11em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.1s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-23s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 11.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.2s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-24s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 12em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.3s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-25s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 12.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.4s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-26s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 13em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.5s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-27s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 13.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.6s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-28s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 14em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.7s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-29s {
+    width: 23vw;
+    position: absolute;
+    top: 0;
+    left: 14.5em;
+    opacity: 0;
+    transition: opacity 0s;
+    animation: fade-in-out 2s 2.8s forwards;
+    animation-fill-mode: forwards;
+  }
+  .dog-30s {
+    width: 20vw;
+    position: absolute;
+    top: -5px;
+    left: 15.6em;
+    opacity: 0;
+    transition: opacity 0.1s;
+    animation: fade-in-outs 2s 2.9s forwards;
+    animation-fill-mode: forwards;
+  }
+  
+  .dog-es {
+    position: relative;
+    top: 50vw;
+    left: 0vw;
+  
+    z-index: 100;
+  }
+  @keyframes fade-in-out {
+    0% {
+      opacity: 0;
+    }
+    5% {
+      opacity: 1;
+    }
+    10% {
+      opacity: 0;
+    }
+    90% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  @keyframes fade-in-outs {
+    0% {
+      opacity: 0;
+    }
+    5% {
+      opacity: 1;
+    }
+    10% {
+      opacity: 1;
+    }
+    90% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
